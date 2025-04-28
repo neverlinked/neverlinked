@@ -1,5 +1,5 @@
 # [E-Portfolio](/)
-Full-Stack Developer / ML Engineer<br>Student at Fontys ICT 🇳🇱<br>
+Full-Stack Developer / ML Engineer<br>Student at Fontys University of Applied Sciences 🇳🇱<br>
 
 
 # 💻 Tech Stack:
