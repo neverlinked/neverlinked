@@ -1,5 +1,5 @@
 # [E-Portfolio](/)
-Full-Stack Developer / AI Engineer<br>Student at Fontys University of Applied Sciences<br>
+Front-end Developer / AI Engineer<br>Student at Fontys University of Applied Sciences<br>
 
 
 # 💻 Tech Stack:
