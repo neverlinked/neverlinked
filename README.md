@@ -1,5 +1,5 @@
 # [E-Portfolio](/)
-AI Engineer<br>Student at Fontys University of Applied Sciences<br>
+AI/ML Engineer<br>Student at Fontys University of Applied Sciences<br>
 
 
 
